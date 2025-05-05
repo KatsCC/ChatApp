@@ -8,6 +8,7 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
+.env*
 
 # Native
 *.orig.*
@@ -24,6 +25,17 @@ expo-env.d.ts
 npm-debug.*
 yarn-debug.*
 yarn-error.*
+
+# Gradle wrapper
+gradle/
+.gradle/
+gradlew
+gradlew.bat
+settings.gradle
+settings.gradle.kts
+
+# Android Studio or IntelliJ IDEA
+.idea/
 
 # macOS
 .DS_Store
