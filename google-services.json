@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCCMiSPZBKE02i7IWm8lhLiqVkD4lOidyI"
+          "current_key": GOOGLE_FIREBASE_KEY
         }
       ],
       "services": {
